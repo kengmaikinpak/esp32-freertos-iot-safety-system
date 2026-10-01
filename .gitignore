@@ -1,0 +1,31 @@
+# Private Credentials & Sensitive Configuration
+src/config.h
+
+# Compiled Arduino / PlatformIO Binaries & Build Folders
+build/
+.pio/
+.pioenvs/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.a
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# Temporary / Extraction Files
+scratch/
+extracted_pdf.txt
